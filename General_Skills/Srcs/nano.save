@@ -1,0 +1,4 @@
+/lib64/ld-linux-x86-64.so.2 libc.so.6 puts stdout __cxa_finalize setvbuf __libc_start_main GLIBC_2.2.5 
+__gmon_start__ _ITM_deregisterTMCloneTable _ITM_registerTMCloneTable =11' =g =j AWAVI AUATL []A\A]A^A_ Maybe 
+try the 'strings' function? Take a look at the man page
+;*3$"
